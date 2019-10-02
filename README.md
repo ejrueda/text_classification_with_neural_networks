@@ -9,5 +9,5 @@ possíveis sao 1576.
 
 A gente fiz um dataset por contagem das palavras que tinham uma maior ocorrência, pegando assim, as primeiras 5200 palavras.
 
-<b> Resultados </b>
+<b> Resultados </b><br>
 O resultado obtido, foi um score de 91% nos dados de treino e um 72.20% nos dados de teste.
